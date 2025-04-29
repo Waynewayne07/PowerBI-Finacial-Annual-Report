@@ -19,15 +19,15 @@ This includes:
 - Recommendations prioritised via an Impact–Ease Matrix  
 
 ---
-## 📊 Power BI Dashboard
+## 📊 Power BI Interactive Dashboard
 
 This visual report supports the strategic analysis with data-driven insights:
 - Performance overview (2020–2024)
 - Deal and investor activity trends (2020–2024)
 
-## 🔗 View the Interactive Report
-
 [![View Report](https://img.shields.io/badge/View-Power%20BI%20Dashboard-blue?logo=powerbi)](https://app.powerbi.com/groups/me/reports/31afd4d5-efe5-4005-9782-fac2c2da3ad0/5a54f2d4c4c10bc356db?experience=power-bi)
+
+---
 
 
 ## 🧭 Analytical Framework
